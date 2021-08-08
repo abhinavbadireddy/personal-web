@@ -11,6 +11,11 @@ h1 {
   color: #66BFBF;
 }
 
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
@@ -38,8 +43,8 @@ h3 {
 .mid-section {
   background-color: #222831;
   margin: 0;
-  padding-bottom: 300px;
-  padding-top: 300px;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 
 .bottomsection {
@@ -159,6 +164,14 @@ p {
 }
 
 .chardesign03 {
+  margin: 2em;
+  margin-top: 50px;
+  margin-bottom: 0;
+  border-radius: 1em;
+}
+
+.chardesign04 {
+  height: 800px;
   margin: 2em;
   margin-top: 50px;
   margin-bottom: 0;
@@ -551,4 +564,8 @@ p {
 
 .da01 {
   height: 500px;
+}
+
+.daw {
+  height: 300px;
 }
